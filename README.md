@@ -1,2 +1,2 @@
-# data
-Stockage de données utilisées par le site internet du gîte
+# Stockage de données
+Stockage de données utilisées par le site internet du gîte.
