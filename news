@@ -1,12 +1,12 @@
-[
-  {
+{
+  "new-website": {
     "title": "Changement de site internet",
     "description": "Ce site internet est le nouveau site du gîte. Découvrez les nouveautés liées à ce changement de site internet.",
     "content": "Nous avons changé de site pour des raisons pratiques comme pour la gestion des calendriers.<br>Désormais, le site n'est plus hébergé par <a href=\"https://jimdo.com/\">Jimdo</a> mais par <a href=\"https://pages.github.com/\">GitHub pages</a>.<br>Ce changement de site internet nous a permis d'utiliser un nom de domaine, \"gitesabotdevenus.fr\" qui vous permet d'accéder plus facilement au site internet.<br>De plus, notre adresse mail de contact est <a href=\"/contact\">contact@gitesabotdevenus.fr</a>."
   },
-  {
+  "covid-19": {
     "title": "Informations Covid-19",
     "description": "Afin d'éviter au maximum la transmission du virus Covid-19, nous mettons en place des mesures supplémentaires.<br>Vous pouvez consulter nos mesures d'hygiène et notre protocole Covid.",
     "content": ""
   }
-]
+}
